@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00bca730-793f-49d4-8461-4f3ec77f424e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mvczmPHDuOIf4Uv2hByJR93qzr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/42app/42app" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00bca730-793f-49d4-8461-4f3ec77f424e" name="Default Changelist" comment="" />
+      <created>1610377769075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610377769075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="678" key="AVDManager" timestamp="1610459574601">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="AVDManager/0.0.1536.864@0.0.1536.864" timestamp="1610459574601" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1610467758318">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1610467758318" />
+    <state width="1491" height="225" key="GridCell.Tab.0.bottom" timestamp="1610467762063">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="225" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1610467762063" />
+    <state width="1491" height="225" key="GridCell.Tab.0.center" timestamp="1610467762062">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="225" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1610467762062" />
+    <state width="1491" height="225" key="GridCell.Tab.0.left" timestamp="1610467762061">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="225" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1610467762061" />
+    <state width="1491" height="225" key="GridCell.Tab.0.right" timestamp="1610467762062">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="225" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1610467762062" />
+    <state x="475" y="165" width="586" height="534" key="find.popup" timestamp="1610467209583">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="475" y="165" width="586" height="534" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1610467209583" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1610442964985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1610442964985" />
+  </component>
+</project>
